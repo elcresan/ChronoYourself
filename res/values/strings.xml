@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chrono Yourself</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Main Activity -->
+    <string name="Text_add">Añade una nueva actividad</string>
+    <string name="Hint_activity">Estudiar, dormir, jugar...</string>
+    <string name="Button_add">Añadir</string>
+    
+    <!--  Chrono Activity -->
+    <string name="Text_activity">Actividad</string>
+    <string name="Button_start">Iniciar</string>
+    <string name="Button_pause">Pausar</string>
+    <string name="Button_set_time">Fijar</string>    
+    <string name="Toast_error_add">Actividad repetida o no válida</string>
+    
+</resources>
